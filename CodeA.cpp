@@ -1,7 +1,4 @@
-// Harsh Kumar
-// 24070123146
-// B3
-// User-defined Implementation of Binary Search
+
 
 #include <iostream>
 #include <vector>
